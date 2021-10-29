@@ -85,6 +85,10 @@
 
 # Resources
 
+### LIVE WEB APP HOSTED ON HEROKUAPP
+
+- https://covidnamibia.herokuapp.com/
+
 ### Inspiration
 - https://realpython.com/python-dash/
 
